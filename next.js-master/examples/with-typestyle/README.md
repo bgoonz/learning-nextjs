@@ -6,9 +6,10 @@ For this purpose we are extending the `<Document />` and injecting the server si
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the example live on [StackBlitz](http://stackblitz.com/) or [Codeanywhere](https://codeanywhere.com):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-typestyle)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vercel/next.js/tree/canary/examples/with-typestyle)
 
 ## Deploy your own
 

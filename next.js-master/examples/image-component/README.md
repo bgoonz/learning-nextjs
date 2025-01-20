@@ -6,9 +6,10 @@ The index page ([`pages/index.js`](pages/index.js)) has a couple images, one int
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the example live on [StackBlitz](http://stackblitz.com/) or [Codeanywhere](https://codeanywhere.com):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/image-component)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vercel/next.js/tree/canary/examples/image-component)
 
 ## Deploy your own
 
