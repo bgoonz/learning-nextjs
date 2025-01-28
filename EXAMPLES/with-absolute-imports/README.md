@@ -4,9 +4,14 @@ This example shows how to configure Babel to have absolute imports instead of re
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Quickly preview this example directly in your browser with [StackBlitz](http://stackblitz.com/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-absolute-imports)
+
+## Develop
+Open this project in Codeanywhere's browser-based IDE for full development capabilities.
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vercel/next.js/tree/canary/examples/with-absolute-imports)
 
 ## Deploy your own
 
